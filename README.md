@@ -52,6 +52,7 @@ L’approche adoptée permet également une séparation claire des rôles (admin
 ├── 📁 utils          # 🛠 Helpers
 └── 📁 assets         # 🖼 Images
 \`\`\`
+```
 
 ## 🛠 Stack Technique
 
