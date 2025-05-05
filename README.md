@@ -44,12 +44,14 @@ L’approche adoptée permet également une séparation claire des rôles (admin
 
 ## 🧱 Architecture
 
+```plaintext
 /src
-├── store            # Stores Zustand
-├── components       # Composants réutilisables
-├── pages            # Vues principales
-├── utils            # Helpers
-├── assets           # Images
+├── 📁 store          # 🗄 Stores Zustand
+├── 📁 components     # 🧩 Composants React réutilisables
+├── 📁 pages          # 🖥 Vues principales (Admin/Client)
+├── 📁 utils          # 🛠 Helpers
+└── 📁 assets         # 🖼 Images
+\`\`\`
 
 ## 🛠 Stack Technique
 
