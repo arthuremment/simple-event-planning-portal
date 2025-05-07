@@ -66,7 +66,12 @@ L’architecture est modulaire et orientée composants pour favoriser la réutil
 
 ## ⚙️ Installation et exécution
 
-1. Clonez ce dépôt
+1. Clonez ce dépôt:
+
+```bash
+git clone https://github.com/arthuremment/simple-event-planning-portal
+```
+   
 2. Installez les dépendances :
 
 ```bash
